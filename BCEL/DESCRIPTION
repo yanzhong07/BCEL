@@ -1,0 +1,11 @@
+Package: BCEL
+Type: Package
+Title: Biclustering with the exclusive lasso
+Version: 1.0.1
+Date: 2019-09-12
+Author: Yan Zhong
+Maintainer: Yan Zhong <yanzhong@stat.tamu.edu>
+Description: Biclustering with the exclusive lasso.
+License: TBA
+Imports: Rcpp, RcppArmadillo, Matrix, RSpectra, gtools, MASS, methods
+LinkingTo: Rcpp, RcppArmadillo, Matrix, RSpectra
